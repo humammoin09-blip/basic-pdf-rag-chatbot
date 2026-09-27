@@ -30,4 +30,8 @@ pip install langchain langchain-google-genai langchain-chroma langchain-communit
    python testing.py
 
 
-   
+And done!
+
+Congratulations! 
+yooo...
+
